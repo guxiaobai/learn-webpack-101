@@ -22,6 +22,8 @@
 * [x] [3-6 Entry 与 Output 的基础配置](./ch03-06/)
 * [x] [3-7 SourceMap 的配置](./ch03-07/)
 * [x] [3-8 使用 WebpackDevServer 提升开发效率](./ch03-08/)
+* [x] [3-9 Hot Module Replacement 热模块更新（1）](./ch03-09/)
+* [x] [3-10 Hot Module Replacement 热模块更新（2）](./ch03-10/)
 
 
 ## Ref
