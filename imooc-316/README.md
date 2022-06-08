@@ -24,6 +24,9 @@
 * [x] [3-8 使用 WebpackDevServer 提升开发效率](./ch03-08/)
 * [x] [3-9 Hot Module Replacement 热模块更新（1）](./ch03-09/)
 * [x] [3-10 Hot Module Replacement 热模块更新（2）](./ch03-10/)
+* [x] [3-11 使用 Babel 处理 ES6 语法（1）](./ch03-11/)
+* [x] [3-12 使用 Babel 处理 ES6 语法（2）](./ch03-12/)
+* [x] [3-13 Webpack 实现对React框架代码的打包](./ch03-13/)
 
 
 ## Ref
