@@ -1,7 +1,15 @@
 # learn-webpack-101
 
+**Optimization**
 
+* [`image-webpack-loader`](https://github.com/tcoopman/image-webpack-loader) - `图片压缩`
+* [`terser-webpack-plugin`](https://github.com/webpack-contrib/terser-webpack-plugin) - `js 压缩`
+
+**Plugin**
+
+* [`friendly-errors-webpack-plugin`](https://github.com/geowarin/friendly-errors-webpack-plugin)
 * [webpack-merge](https://github.com/survivejs/webpack-merge)
+* [webpackbar](https://github.com/unjs/webpackbar)
 
 ## 视频
 
